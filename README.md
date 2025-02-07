@@ -1,6 +1,6 @@
-#Evaluating Mayotte disaster damages
+# Evaluating Mayotte disaster damages
 
-##Overview
+## Overview
 
 In this project, we propose our approach to transfer the learning of a RescuNet model trained on data from a French island of Mayotte that we collected after being hit by Cyclone Chido in order to assess the generalizability of this model in assessing damage caused by unseen disasters. We evaluate the model on drone and satellite images, and then propose a data adaptation in which we apply transformations on the Mayotte images to try to improve the model's predictions. 
 
