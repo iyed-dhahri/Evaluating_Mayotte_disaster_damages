@@ -10,7 +10,4 @@ In this project, we propose our approach to transfer the learning of a RescuNet 
   <img src="https://github.com/user-attachments/assets/a4ab7ba4-2915-4d62-8b32-45e024b91b2c" width="45%" />
 </p>
 
-### Results on Mayotte drone images before and after cropping
-![drone_may](https://github.com/user-attachments/assets/26eb3a36-1bd1-49c9-8737-20ba71a0e7a1)
-
 
