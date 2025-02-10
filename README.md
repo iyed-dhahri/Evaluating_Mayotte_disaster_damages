@@ -9,5 +9,6 @@ In this project, we propose our approach to transfer the learning of a RescuNet 
   <img src="https://github.com/user-attachments/assets/e0e8db2c-c4dc-4595-9f78-693602ed3bcf" width="45%" />
   <img src="https://github.com/user-attachments/assets/a4ab7ba4-2915-4d62-8b32-45e024b91b2c" width="45%" />
 </p>
+
 ### Results on Mayotte satellite images before and after application of our knowledge transfer approach.
 
