@@ -11,4 +11,4 @@ In this project, we propose our approach to transfer the learning of a RescuNet 
 </p>
 
 ### Results on Mayotte satellite images before and after application of our knowledge transfer approach.
-
+This wok is under review. The source code as well as the prepared datasets will be made available once the work evaluated.
