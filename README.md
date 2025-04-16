@@ -19,14 +19,14 @@ If you use or refer to this work, please cite:
 
 **Standard Format:**
 
-H. Karim, I. Dhahri, M. Guesmi, *et al.*  
+H. Karim, D. Iyed, G. Mahmoud, AS. Parisenti et L. Idoumghar
 "Generalizability of a RescueNet Data-trained Damage Estimation Model for Evaluating Mayotte Disasters."  
 *International Conference on Geoinformatics and Data Analysis (ICGDA 2025)*, Springer.
 
 **BibTeX:**
 ```bibtex
 @inproceedings{karim2025mayotte,
-  author    = {Karim, H. and Dhahri, I. and Guesmi, M. and others},
+  author    = {H. Karim, D. Iyed, G. Mahmoud, AS. Parisenti et L. Idoumghar},
   title     = {Generalizability of a RescueNet Data-trained Damage Estimation Model for Evaluating Mayotte Disasters},
   booktitle = {Proceedings of the International Conference on Geoinformatics and Data Analysis (ICGDA)},
   year      = {2025},
