@@ -13,4 +13,6 @@ In this project, we propose our approach to transfer the learning of a RescuNet 
 ### Results on Mayotte satellite images before and after application of our knowledge transfer approach.
  **"This work is under review. The source code as well as the prepared datasets will be made available once the work evaluated."**
 
-## Reference
+## References
+\bibitem{Mayotte} 
+H. Karim, D. Iyed, G. Mahmoud, and others, ``Generalizability of a RescueNet Data-trained Damage Estimation Model for Evaluating Mayotte Disasters" \textit{International conference on Geoinformatics and Data Analysis (ICGDA 2025)}. Springer.
